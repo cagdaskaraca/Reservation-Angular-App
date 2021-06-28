@@ -1,6 +1,6 @@
 # Reservation-Angular-App
 
-## Randevu Uygulaması
+## Randevu Uygulaması (Front-end)
 
 Sizden belirtilen Front-end Framework'lerinden biriyle (Vue.js, Angular veya ReactJs) geliştirmiş, bir web uygulaması bekliyoruz. Bu uygulama kişinin randevu listesini tutacak bir uygulama olup, temek fonksiyonları barındıracaktır.
 
