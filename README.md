@@ -12,7 +12,7 @@ Beklenen fonksiyonlar:
 
 * Kimlik doğrulama sistemi (Authentication)
 
-* Ortam değişkenleri barındırması (örn: test, production vs)
+* Ortam değişkenleri barındırması (örn: dev, local vs)
 
 * Ekranlar:
 
